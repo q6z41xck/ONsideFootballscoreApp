@@ -1,7 +1,7 @@
 # ONside
 
 <p align="center">
-<img src="app/src/main/ic_launcher-playstore.png" alt="App icon" width="256px" height="256px">
+<img src="https://reluctant-lime-ctird6ty1u.edgeone.app/ONside.jpg" alt="App icon" width="256px" height="256px">
 </p>
 
 
