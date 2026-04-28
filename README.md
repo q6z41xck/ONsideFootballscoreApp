@@ -16,7 +16,7 @@
 * **Dependency Injection:** [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 * **Networking:** [Retrofit](https://square.github.io/retrofit/) และ [OkHttp](https://square.github.io/okhttp/)
 * **Logging:** [Timber](https://github.com/JakeWharton/timber)
-* **Animations:** [Lottie Animations](https://airbnb.design/lottie/)
+* **Animations:** [Lottie Animations](https://lottiefiles.com/)
 * **Delivery:** [Play Feature Delivery](https://developer.android.com/guide/playcore/feature-delivery)
 * **Crash Reporting:** [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics?hl=pl)
 
