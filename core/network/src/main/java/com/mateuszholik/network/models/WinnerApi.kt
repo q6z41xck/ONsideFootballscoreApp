@@ -1,0 +1,28 @@
+package com.mateuszholik.network.models
+
+import com.google.gson.annotations.SerializedName
+
+data class WinnerApi(
+    @SerializedName("id")
+    val id: Int,
+    @SerializedName("name")
+    val name: String? = null,
+    @SerializedName("shortName")
+    val shortName: String? = null,
+    @SerializedName("tla")
+    val tla: String? = null,
+    @SerializedName("crest")
+    val crest: String? = null,
+    @SerializedName("address")
+    val address: String? = null,
+    @SerializedName("website")
+    val website: String? = null,
+    @SerializedName("founded")
+    val founded: Int? = null,
+    @SerializedName("clubColors")
+    val clubColors: String? = null,
+    @SerializedName("venue")
+    val venue: String? = null,
+    @SerializedName("lastUpdated")
+    val lastUpdated: String? = null,
+)
