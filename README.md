@@ -45,9 +45,3 @@
    NEWS_API_KEY=your_news_api_key
    ```
 4. สร้างโปรเจ็คใน Firebase console และนำไฟล์ `google-services.json` มาใส่ในโฟลเดอร์ `app`
-
-### สถาปัตยกรรม (Architecture) และการแบ่งโมดูล (Modularization)
-ONside ถูกพัฒนาบนสถาปัตยกรรมแบบ **MVVM**, Repository และ Use-case patterns
-สำหรับการแบ่งโมดูล (Modularization) จะอิงตามสถาปัตยกรรมที่ Google แนะนำใน[บทความนี้](https://developer.android.com/topic/modularization) และตัวอย่างแอป [nowinandroid](https://github.com/android/nowinandroid) โดยจะแบ่งออกเป็น 2 หมวดหมู่หลักคือ `core` และ `feature`
-
-"# ONsideFootballscoreApp" 
