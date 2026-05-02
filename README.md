@@ -10,13 +10,7 @@
 
 ## Wireframe
 
-<p align="center">
-<img
-  src="https://intense-pink-1jpqvguu2i.edgeone.app/Sarabun.jpg"
-  alt="App icon"
-  style="max-width: 100%; height: auto;"
->
-</p>
+<img src="https://wasteful-silver-v75byjed5v.edgeone.app/wireframe.jpg" alt="App icon">
 
 ## Tech stack ที่ใช้
 * **ภาษา:** Kotlin
