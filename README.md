@@ -11,7 +11,11 @@
 ## Wireframe
 
 <p align="center">
-<img src="https://intense-pink-1jpqvguu2i.edgeone.app/Sarabun.jpg" alt="App icon" width="256px" height="256px">
+<img
+  src="https://intense-pink-1jpqvguu2i.edgeone.app/Sarabun.jpg"
+  alt="App icon"
+  style="max-width: 100%; height: auto;"
+>
 </p>
 
 ## Tech stack ที่ใช้
