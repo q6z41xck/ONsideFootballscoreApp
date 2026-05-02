@@ -8,6 +8,12 @@
 **ONside** แอปพลิเคชันสำหรับตรวจสอบผลการแข่งขันฟุตบอล, ดูอันดับดาวซัลโวของแต่ละลีก, ตารางคะแนนลีก และอ่านข่าวสารกีฬาล่าสุด 
 ในการสร้าง UI Layout จะใช้ **Jetpack Compose** และใช้ **Kotlin Flow** ร่วมกับ **Coroutines** สำหรับจัดการการทำงานแบบ Asynchronous
 
+## Wireframe
+
+<p align="center">
+<img src="https://intense-pink-1jpqvguu2i.edgeone.app/Sarabun.jpg" alt="App icon" width="256px" height="256px">
+</p>
+
 ## Tech stack ที่ใช้
 * **ภาษา:** Kotlin
 * **UI:** [Jetpack Compose](https://developer.android.com/jetpack/compose?gclsrc=ds&gclsrc=ds)
